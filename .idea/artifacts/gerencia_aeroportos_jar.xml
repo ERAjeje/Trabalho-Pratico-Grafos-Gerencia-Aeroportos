@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gerencia_aeroportos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gerencia_aeroportos_jar</output-path>
+    <root id="archive" name="gerencia_aeroportos.jar">
+      <element id="module-output" name="gerencia_aeroportos" />
+    </root>
+  </artifact>
+</component>
