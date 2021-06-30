@@ -47,3 +47,9 @@ de todos os voos de origem/destino vinculadas ao tal;
   * Caso pelo menos um dos aeroportos não exista, emitir uma mensagem de erro.
   
 * **calculaCustoTotal()**: retorna o somatório de todos os custos dos voos cadastrados.
+
+## Arquivo para Teste
+
+Para facilitar o teste, na pasta `out/artifacts/gerencia_aeroportos_jar` encontra-se um arquivo
+`.jar` buildado. Não será necessário, então, compilar e buildar o código, bastando somente a
+execução do arquivo.
